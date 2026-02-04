@@ -4,7 +4,9 @@ description: Share files with email-gated access. Users must confirm their email
 compatibility: Created for Zo Computer
 metadata:
   author: 0.zo.computer
+  category: Official
 ---
+
 ## Prerequisites
 
 - **Gmail must be connected** for email delivery to work.
