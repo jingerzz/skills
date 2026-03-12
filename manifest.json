@@ -1014,6 +1014,16 @@
       "path": "Community/prompt-improver"
     },
     {
+      "name": "visual-explainer",
+      "description": "Build polished visual explainers as zo.space pages. Creates public routes at /explain/[slug] and keeps each explainer shareable at a stable URL.",
+      "compatibility": "Created for Zo Computer",
+      "metadata": {
+        "author": "skeletorjs"
+      },
+      "slug": "visual-explainer",
+      "path": "Community/visual-explainer"
+    },
+    {
       "name": "generate-custom-qr-code",
       "description": "Generates a QR code from any URL, and optionally overlays a custom image in the center",
       "metadata": {
