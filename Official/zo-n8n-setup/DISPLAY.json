@@ -1,0 +1,11 @@
+{
+  "icon": "zap",
+  "tags": [
+    "automation",
+    "infrastructure",
+    "integration"
+  ],
+  "integrations": [
+    "n8n"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "icon": "share",
+  "tags": [
+    "productivity",
+    "infrastructure",
+    "collaboration"
+  ],
+  "integrations": [
+    "gmail"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "icon": "bed",
+  "tags": [
+    "integration",
+    "automation",
+    "lifestyle"
+  ],
+  "integrations": [
+    "eightsleep"
+  ]
+}

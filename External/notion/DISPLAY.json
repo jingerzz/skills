@@ -1,0 +1,11 @@
+{
+  "icon": "notion",
+  "tags": [
+    "productivity",
+    "integration",
+    "content"
+  ],
+  "integrations": [
+    "notion"
+  ]
+}

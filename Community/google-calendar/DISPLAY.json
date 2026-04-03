@@ -1,0 +1,11 @@
+{
+  "icon": "calendar",
+  "tags": [
+    "calendar",
+    "productivity",
+    "integration"
+  ],
+  "integrations": [
+    "google_calendar"
+  ]
+}

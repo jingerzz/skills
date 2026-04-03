@@ -1,0 +1,13 @@
+{
+  "icon": "globe",
+  "tags": [
+    "email",
+    "calendar",
+    "integration"
+  ],
+  "integrations": [
+    "gmail",
+    "google_calendar",
+    "google_drive"
+  ]
+}

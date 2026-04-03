@@ -1,0 +1,11 @@
+{
+  "icon": "image",
+  "tags": [
+    "media",
+    "social",
+    "design"
+  ],
+  "integrations": [
+    "slack"
+  ]
+}
