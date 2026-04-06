@@ -454,7 +454,7 @@
         "author": "va.zo.computer",
         "category": "Community",
         "display-name": "Claude Code Window Primer",
-        "emoji": "⏰"
+        "emoji": "\u23f0"
       },
       "display": {
         "icon": "clock",
@@ -511,7 +511,7 @@
         "author": "rc2.zo.computer",
         "category": "Community",
         "display-name": "Tweetscape Narrator",
-        "emoji": "🎬"
+        "emoji": "\ud83c\udfac"
       },
       "display": {
         "icon": "film",
@@ -572,7 +572,7 @@
         "author": "0.zo.computer",
         "category": "Community",
         "display-name": "Post to X (Twitter)",
-        "emoji": "🐦"
+        "emoji": "\ud83d\udc26"
       },
       "display": {
         "icon": "x",
@@ -595,7 +595,7 @@
         "author": "Zo",
         "category": "Community",
         "display-name": "Texting positive affirmations daily",
-        "emoji": "✨"
+        "emoji": "\u2728"
       },
       "display": {
         "icon": "sparkles",
@@ -615,7 +615,7 @@
         "author": "tiff.zo.computer",
         "category": "Community",
         "display-name": "Create ideal dating profile",
-        "emoji": "💌"
+        "emoji": "\ud83d\udc8c"
       },
       "display": {
         "icon": "heart",
@@ -634,7 +634,7 @@
         "author": "0.zo.computer",
         "category": "Community",
         "display-name": "Find recent Craigslist missed connections",
-        "emoji": "💕"
+        "emoji": "\ud83d\udc95"
       },
       "display": {
         "icon": "search",
@@ -653,7 +653,7 @@
         "author": "hatsunemiku.zo.computer",
         "category": "Community",
         "display-name": "Generate QR code with optional image",
-        "emoji": "📱"
+        "emoji": "\ud83d\udcf1"
       },
       "display": {
         "icon": "qr-code",
@@ -673,7 +673,7 @@
       "metadata": {
         "author": "rob.zo.computer",
         "category": "Community",
-        "emoji": "🅖"
+        "emoji": "\ud83c\udd56"
       },
       "display": {
         "icon": "calendar",
@@ -696,7 +696,7 @@
         "author": "rob.zo.computer",
         "category": "Community",
         "display-name": "Genome Analysis",
-        "emoji": "🧬"
+        "emoji": "\ud83e\uddec"
       },
       "display": {
         "icon": "dna",
@@ -716,7 +716,7 @@
         "author": "ian.zo.computer",
         "category": "Community",
         "display-name": "Create Spotify playlist from Pitchfork Best New Tracks",
-        "emoji": "🎵"
+        "emoji": "\ud83c\udfb5"
       },
       "display": {
         "icon": "spotify",
@@ -739,7 +739,7 @@
         "author": "0.zo.computer",
         "category": "Community",
         "display-name": "Plan code changes",
-        "emoji": "🧑🏻‍💻"
+        "emoji": "\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb"
       },
       "display": {
         "icon": "code",
@@ -758,7 +758,7 @@
         "author": "hatsunemiku.zo.computer",
         "category": "Community",
         "display-name": "Plant Care Plan",
-        "emoji": "🪴"
+        "emoji": "\ud83e\udeb4"
       },
       "display": {
         "icon": "leaf",
@@ -778,7 +778,7 @@
         "author": "rob.zo.computer",
         "category": "Community",
         "display-name": "Set up automated receipt processing system",
-        "emoji": "🧾"
+        "emoji": "\ud83e\uddfe"
       },
       "display": {
         "icon": "receipt",
@@ -798,7 +798,7 @@
         "author": "ian.zo.computer",
         "category": "Community",
         "display-name": "Remove Photo Metadata",
-        "emoji": "🔒"
+        "emoji": "\ud83d\udd12"
       },
       "display": {
         "icon": "shield",
@@ -817,7 +817,7 @@
         "author": "0.zo.computer",
         "category": "Community",
         "display-name": "Summarize Hacker News front page",
-        "emoji": "🔶"
+        "emoji": "\ud83d\udd36"
       },
       "display": {
         "icon": "globe",
@@ -836,7 +836,7 @@
         "author": "hatsunemiku.zo.computer",
         "category": "Community",
         "display-name": "Create syllabus reminders",
-        "emoji": "🔖"
+        "emoji": "\ud83d\udd16"
       },
       "display": {
         "icon": "calendar",
@@ -859,7 +859,7 @@
         "author": "ian.zo.computer",
         "category": "Community",
         "display-name": "Text commute travel time and route",
-        "emoji": "🚏"
+        "emoji": "\ud83d\ude8f"
       },
       "display": {
         "icon": "map-pin",
@@ -879,7 +879,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Automate something",
-        "emoji": "⚙️"
+        "emoji": "\u2699\ufe0f"
       },
       "display": {
         "icon": "zap",
@@ -898,7 +898,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Create a blog",
-        "emoji": "📝"
+        "emoji": "\ud83d\udcdd"
       },
       "display": {
         "icon": "pen-tool",
@@ -918,7 +918,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Set up code-server (VS Code in browser)",
-        "emoji": "💻"
+        "emoji": "\ud83d\udcbb"
       },
       "display": {
         "icon": "terminal",
@@ -938,7 +938,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Create a site",
-        "emoji": "⚡"
+        "emoji": "\u26a1"
       },
       "display": {
         "icon": "globe",
@@ -957,7 +957,7 @@
         "author": "rob.zo.computer",
         "category": "Official",
         "display-name": "Create a slide deck",
-        "emoji": "🎞️"
+        "emoji": "\ud83c\udf9e\ufe0f"
       },
       "display": {
         "icon": "presentation",
@@ -976,7 +976,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Daily Linear digest",
-        "emoji": "📋"
+        "emoji": "\ud83d\udccb"
       },
       "display": {
         "icon": "linear",
@@ -999,7 +999,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Daily news digest",
-        "emoji": "📰"
+        "emoji": "\ud83d\udcf0"
       },
       "display": {
         "icon": "newspaper",
@@ -1019,7 +1019,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Enrich CSV with AI-generated columns",
-        "emoji": "📊"
+        "emoji": "\ud83d\udcca"
       },
       "display": {
         "icon": "table",
@@ -1039,7 +1039,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Convert EPUB to Markdown",
-        "emoji": "📚"
+        "emoji": "\ud83d\udcda"
       },
       "display": {
         "icon": "book",
@@ -1059,7 +1059,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Extract Text from Images (OCR)",
-        "emoji": "🔍"
+        "emoji": "\ud83d\udd0d"
       },
       "display": {
         "icon": "scan",
@@ -1079,7 +1079,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Process file line-by-line with script",
-        "emoji": "🔄"
+        "emoji": "\ud83d\udd04"
       },
       "display": {
         "icon": "repeat",
@@ -1099,7 +1099,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Generate PDF from Markdown",
-        "emoji": "📑"
+        "emoji": "\ud83d\udcd1"
       },
       "display": {
         "icon": "file-text",
@@ -1119,7 +1119,7 @@
       "metadata": {
         "author": "Zo",
         "category": "Official",
-        "emoji": "🅖"
+        "emoji": "\ud83c\udd56"
       },
       "display": {
         "icon": "key",
@@ -1142,7 +1142,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Set up Grafana for log visualization",
-        "emoji": "📈"
+        "emoji": "\ud83d\udcc8"
       },
       "display": {
         "icon": "chart-bar",
@@ -1165,7 +1165,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Create a guestbook",
-        "emoji": "📖"
+        "emoji": "\ud83d\udcd6"
       },
       "display": {
         "icon": "book",
@@ -1185,7 +1185,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Text summary of important emails",
-        "emoji": "📧"
+        "emoji": "\ud83d\udce7"
       },
       "display": {
         "icon": "mail",
@@ -1252,7 +1252,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Set up n8n workflow automation",
-        "emoji": "🔗"
+        "emoji": "\ud83d\udd17"
       },
       "display": {
         "icon": "zap",
@@ -1275,7 +1275,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Organize my files",
-        "emoji": "🗂️"
+        "emoji": "\ud83d\uddc2\ufe0f"
       },
       "display": {
         "icon": "folder",
@@ -1295,7 +1295,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Convert PDF to Markdown",
-        "emoji": "📄"
+        "emoji": "\ud83d\udcc4"
       },
       "display": {
         "icon": "file-text",
@@ -1315,7 +1315,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Create a portfolio site",
-        "emoji": "🎨"
+        "emoji": "\ud83c\udfa8"
       },
       "display": {
         "icon": "globe",
@@ -1335,7 +1335,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Research a topic",
-        "emoji": "🔬"
+        "emoji": "\ud83d\udd2c"
       },
       "display": {
         "icon": "search",
@@ -1355,7 +1355,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Resize Images",
-        "emoji": "🖼️"
+        "emoji": "\ud83d\uddbc\ufe0f"
       },
       "display": {
         "icon": "image",
@@ -1375,7 +1375,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Set up SSH server for remote access",
-        "emoji": "🔐"
+        "emoji": "\ud83d\udd10"
       },
       "display": {
         "icon": "terminal",
@@ -1417,7 +1417,7 @@
         "author": "Zo",
         "category": "Official",
         "display-name": "Weekly meeting reminder",
-        "emoji": "🗓️"
+        "emoji": "\ud83d\uddd3\ufe0f"
       },
       "display": {
         "icon": "calendar",
@@ -1459,7 +1459,7 @@
         "author": "rc2.zo.computer",
         "category": "Community",
         "display-name": "Generate flashcards from a webpage or document",
-        "emoji": "📇"
+        "emoji": "\ud83d\udcc7"
       },
       "display": {
         "icon": "book",
@@ -1518,7 +1518,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "📰",
+          "emoji": "\ud83d\udcf0",
           "requires": {
             "bins": [
               "blogwatcher"
@@ -1643,7 +1643,7 @@
     },
     {
       "name": "copywriting",
-      "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro.",
+      "description": "When the user wants to write, rewrite, or improve marketing copy for any page \u2014 including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro.",
       "metadata": {
         "author": "Coreyhaines31",
         "category": "External",
@@ -1687,7 +1687,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "🎛️",
+          "emoji": "\ud83c\udf9b\ufe0f",
           "requires": {
             "bins": [
               "eightctl"
@@ -1742,7 +1742,7 @@
     },
     {
       "name": "form-cro",
-      "description": "When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions \"form optimization,\" \"lead form conversions,\" \"form friction,\" \"form fields,\" \"form completion rate,\" or \"contact form.\" For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro.",
+      "description": "When the user wants to optimize any form that is NOT signup/registration \u2014 including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions \"form optimization,\" \"lead form conversions,\" \"form friction,\" \"form fields,\" \"form completion rate,\" or \"contact form.\" For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro.",
       "metadata": {
         "author": "Coreyhaines31",
         "category": "External"
@@ -1760,7 +1760,7 @@
     },
     {
       "name": "free-tool-strategy",
-      "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" or \"free resource.\" This skill bridges engineering and marketing — useful for founders and technical marketers.",
+      "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes \u2014 lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" or \"free resource.\" This skill bridges engineering and marketing \u2014 useful for founders and technical marketers.",
       "metadata": {
         "author": "Coreyhaines31",
         "category": "External"
@@ -1802,7 +1802,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "🐙",
+          "emoji": "\ud83d\udc19",
           "requires": {
             "bins": [
               "gh"
@@ -1844,7 +1844,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "🎮",
+          "emoji": "\ud83c\udfae",
           "requires": {
             "bins": [
               "gog"
@@ -1887,7 +1887,7 @@
         "author": "rc2.zo.computer",
         "category": "Community",
         "display-name": "Set up hashcards spaced repetition system",
-        "emoji": "📇"
+        "emoji": "\ud83d\udcc7"
       },
       "display": {
         "icon": "book",
@@ -1989,7 +1989,8 @@
         "tags": [
           "media",
           "education"
-        ]
+        ],
+        "video": "assets/manim-composer.mp4"
       },
       "slug": "manim-composer",
       "path": "External/manim-composer",
@@ -2059,7 +2060,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "📦",
+          "emoji": "\ud83d\udce6",
           "requires": {
             "bins": [
               "mcporter"
@@ -2117,7 +2118,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "📝",
+          "emoji": "\ud83d\udcdd",
           "requires": {
             "env": [
               "NOTION_API_KEY"
@@ -2160,7 +2161,7 @@
     },
     {
       "name": "page-cro",
-      "description": "When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says \"CRO,\" \"conversion rate optimization,\" \"this page isn't converting,\" \"improve conversions,\" or \"why isn't this page working.\" For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro.",
+      "description": "When the user wants to optimize, improve, or increase conversions on any marketing page \u2014 including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says \"CRO,\" \"conversion rate optimization,\" \"this page isn't converting,\" \"improve conversions,\" or \"why isn't this page working.\" For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro.",
       "metadata": {
         "author": "Coreyhaines31",
         "category": "External"
@@ -2195,7 +2196,7 @@
     },
     {
       "name": "paywall-upgrade-cro",
-      "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" or \"in-app pricing.\" Distinct from public pricing pages (see page-cro) — this skill focuses on in-product upgrade moments where the user has already experienced value.",
+      "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" or \"in-app pricing.\" Distinct from public pricing pages (see page-cro) \u2014 this skill focuses on in-product upgrade moments where the user has already experienced value.",
       "metadata": {
         "author": "Coreyhaines31",
         "category": "External"
@@ -2702,7 +2703,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "🧵",
+          "emoji": "\ud83e\uddf5",
           "os": [
             "darwin",
             "linux"
@@ -2734,7 +2735,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "📋",
+          "emoji": "\ud83d\udccb",
           "requires": {
             "bins": [
               "jq"
@@ -2769,7 +2770,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "🎞️",
+          "emoji": "\ud83c\udf9e\ufe0f",
           "requires": {
             "bins": [
               "ffmpeg"
@@ -2809,7 +2810,7 @@
         "author": "Clawdbot",
         "category": "External",
         "clawdbot": {
-          "emoji": "🌤️",
+          "emoji": "\ud83c\udf24\ufe0f",
           "requires": {
             "bins": [
               "curl"
