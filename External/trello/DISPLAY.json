@@ -1,10 +1,15 @@
 {
   "icon": "trello",
-  "tags": [
-    "automation",
-    "productivity"
-  ],
-  "integrations": [
-    "trello"
+  "tags": ["automation", "productivity"],
+  "integrations": ["trello"],
+  "secrets": [
+    {
+      "secret_name": "TRELLO_API_KEY",
+      "description": "Get one at trello.com/power-ups/admin (Power-Up › API key)."
+    },
+    {
+      "secret_name": "TRELLO_TOKEN",
+      "description": "Generate from the same Power-Up admin page after creating the API key."
+    }
   ]
 }

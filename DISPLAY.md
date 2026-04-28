@@ -1,6 +1,6 @@
 # DISPLAY.json Specification
 
-**Spec Version:** 0.1.0
+**Spec Version:** 0.2.0
 
 ## Overview
 
@@ -19,12 +19,18 @@ To see examples of how `DISPLAY.json` data gets used to present skills, see http
 
 ```jsonc
 {
-  "specVersion": "0.1.0",
+  "specVersion": "0.2.0",
   "icon": "globe",
   "image": "assets/cover.png",
   "video": "assets/demo.mp4",
   "tags": ["social", "automation"],
-  "integrations": ["x", "linkedin"]
+  "integrations": ["x", "linkedin"],
+  "secrets": [
+    {
+      "secret_name": "POSTHOG_PERSONAL_API_KEY",
+      "description": "Create one in app.posthog.com › Account settings › Personal API keys."
+    }
+  ]
 }
 ```
 
@@ -39,7 +45,7 @@ All fields are optional. A skill with no `DISPLAY.json` or an empty `{}` still w
 - **Description:** The version of this spec the file conforms to.
 
 ```json
-"specVersion": "0.1.0"
+"specVersion": "0.2.0"
 ```
 
 ### `icon`
@@ -99,6 +105,31 @@ All fields are optional. A skill with no `DISPLAY.json` or an empty `{}` still w
 "integrations": ["x", "linkedin", "gmail"]
 ```
 
+### `secrets`
+
+- **Type:** `Array<SecretDeclaration | string>`
+- **Description:** User-supplied credentials the skill needs (API keys, cookies, tokens). Platforms that render skill UIs use this to surface an inline setup panel where users paste values, which are then saved to the host's secret store and exposed to the skill as environment variables. A bare string is shorthand for `{ "secret_name": <string> }`.
+
+Fields on `SecretDeclaration`:
+
+- `secret_name` *(string, required)* — the environment variable name. MUST match `^[a-zA-Z_][a-zA-Z0-9_]*$`.
+- `description` *(string, optional)* — short hint shown to the user near the input (e.g. where to obtain the value).
+
+```json
+"secrets": ["POSTHOG_PERSONAL_API_KEY"]
+```
+
+```json
+"secrets": [
+  {
+    "secret_name": "LINKEDIN_COOKIES",
+    "description": "Paste your full cookie string from the browser devtools."
+  }
+]
+```
+
+Duplicate `secret_name` values within the array are ignored (first-wins). Use this only for user-pasted string values — OAuth flows and file-based credentials are out of scope.
+
 ## File placement
 
 ```
@@ -129,11 +160,17 @@ A fuller example:
 
 ```json
 {
-  "specVersion": "0.1.0",
+  "specVersion": "0.2.0",
   "icon": "globe",
   "image": "assets/cover.png",
   "video": "assets/demo.mp4",
   "tags": ["social", "automation", "posting"],
-  "integrations": ["x", "linkedin"]
+  "integrations": ["x", "linkedin"],
+  "secrets": [
+    {
+      "secret_name": "LINKEDIN_COOKIES",
+      "description": "Paste your full cookie string from the browser devtools."
+    }
+  ]
 }
 ```

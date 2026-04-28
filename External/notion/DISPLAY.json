@@ -1,10 +1,11 @@
 {
   "icon": "notion",
-  "tags": [
-    "automation",
-    "productivity"
-  ],
-  "integrations": [
-    "notion"
+  "tags": ["automation", "productivity"],
+  "integrations": ["notion"],
+  "secrets": [
+    {
+      "secret_name": "NOTION_API_KEY",
+      "description": "Create an integration at notion.so/my-integrations and copy the internal integration secret."
+    }
   ]
 }

@@ -1,7 +1,10 @@
 {
   "icon": "bot",
-  "tags": [
-    "ai",
-    "developer-tools"
+  "tags": ["ai", "developer-tools"],
+  "secrets": [
+    {
+      "secret_name": "ZO_ACCESS_TOKEN",
+      "description": "Generate from your Zo workspace and paste here so the skill can call your gateway."
+    }
   ]
 }
