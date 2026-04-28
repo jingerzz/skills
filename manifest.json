@@ -155,6 +155,20 @@
         ],
         "integrations": [
           "okx"
+        ],
+        "secrets": [
+          {
+            "secret_name": "OKX_API_KEY",
+            "description": "Create one in OKX › Account › API Management with read permissions."
+          },
+          {
+            "secret_name": "OKX_SECRET_KEY",
+            "description": "Shown once when you create the OKX API key. Save it before closing the dialog."
+          },
+          {
+            "secret_name": "OKX_PASSPHRASE",
+            "description": "The passphrase you set when creating the OKX API key."
+          }
         ]
       },
       "slug": "zo-okx-cex-portfolio",
@@ -179,6 +193,20 @@
         ],
         "integrations": [
           "okx"
+        ],
+        "secrets": [
+          {
+            "secret_name": "OKX_API_KEY",
+            "description": "Create one in OKX › Account › API Management with trade permissions."
+          },
+          {
+            "secret_name": "OKX_SECRET_KEY",
+            "description": "Shown once when you create the OKX API key. Save it before closing the dialog."
+          },
+          {
+            "secret_name": "OKX_PASSPHRASE",
+            "description": "The passphrase you set when creating the OKX API key."
+          }
         ]
       },
       "slug": "zo-okx-cex-trade",
@@ -272,6 +300,16 @@
         "tags": [
           "ai",
           "developer-tools"
+        ],
+        "secrets": [
+          {
+            "secret_name": "TAILSCALE_AUTHKEY",
+            "description": "Create a reusable auth key at login.tailscale.com/admin/settings/keys (starts with `tskey-auth-`). Required — Tailscale won't reconnect after Zo restarts without a reusable key."
+          },
+          {
+            "secret_name": "ZO_ACCESS_TOKEN",
+            "description": "Generate from your Zo workspace and paste here so the skill can call your gateway."
+          }
         ]
       },
       "slug": "zopenclaw",
@@ -345,6 +383,20 @@
         "tags": [
           "automation",
           "developer-tools"
+        ],
+        "secrets": [
+          {
+            "secret_name": "LINEAR_API_KEY",
+            "description": "Create at linear.app › Settings › API. Used for the Linear MCP integration."
+          },
+          {
+            "secret_name": "GITHUB_TOKEN",
+            "description": "A GitHub personal access token. Used for the GitHub MCP integration."
+          },
+          {
+            "secret_name": "FIRECRAWL_API_KEY",
+            "description": "Get one at firecrawl.dev. Used for the Firecrawl MCP integration."
+          }
         ]
       },
       "slug": "mcporter-setup",
@@ -382,6 +434,12 @@
         "icon": "book-open",
         "tags": [
           "developer-tools"
+        ],
+        "secrets": [
+          {
+            "secret_name": "CONTEXT7_API_KEY",
+            "description": "Create at context7.com › Dashboard. Optional — increases your rate limits."
+          }
         ]
       },
       "slug": "context7",
@@ -468,6 +526,20 @@
           "data",
           "marketing",
           "research"
+        ],
+        "secrets": [
+          {
+            "secret_name": "BLS_API_KEY",
+            "description": "Register at data.bls.gov/registrationEngine for U.S. Bureau of Labor Statistics data."
+          },
+          {
+            "secret_name": "FRED_API_KEY",
+            "description": "Register at fred.stlouisfed.org/docs/api/api_key.html for Federal Reserve economic data."
+          },
+          {
+            "secret_name": "CENSUS_API_KEY",
+            "description": "Sign up at api.census.gov/data/key_signup.html for U.S. Census data."
+          }
         ]
       },
       "slug": "market-research",
@@ -574,6 +646,12 @@
         "tags": [
           "ai",
           "data"
+        ],
+        "secrets": [
+          {
+            "secret_name": "SUPERMEMORY_API_KEY",
+            "description": "Create one at supermemory.ai › API keys."
+          }
         ]
       },
       "slug": "supermemory",
@@ -676,6 +754,12 @@
         ],
         "integrations": [
           "google_calendar"
+        ],
+        "secrets": [
+          {
+            "secret_name": "VAPI_PRIVATE_KEY",
+            "description": "Find at dashboard.vapi.ai › API Keys (Private Key)."
+          }
         ]
       },
       "slug": "vapi",
@@ -715,6 +799,12 @@
           "automation",
           "media",
           "social"
+        ],
+        "secrets": [
+          {
+            "secret_name": "ELEVENLABS_API_KEY",
+            "description": "Create at elevenlabs.io › Profile › API key. Used for voice synthesis."
+          }
         ]
       },
       "slug": "tweetscape-narrator",
@@ -781,6 +871,24 @@
         ],
         "integrations": [
           "x"
+        ],
+        "secrets": [
+          {
+            "secret_name": "X_API_KEY",
+            "description": "From the X developer portal › your project › Keys and tokens (API Key)."
+          },
+          {
+            "secret_name": "X_API_KEY_SECRET",
+            "description": "From the X developer portal › your project › Keys and tokens (API Key Secret)."
+          },
+          {
+            "secret_name": "X_ACCESS_TOKEN",
+            "description": "From the X developer portal › your project › Keys and tokens (Access Token)."
+          },
+          {
+            "secret_name": "X_ACCESS_TOKEN_SECRET",
+            "description": "From the X developer portal › your project › Keys and tokens (Access Token Secret)."
+          }
         ]
       },
       "slug": "twitter-api",
@@ -811,7 +919,7 @@
       "name": "dating-profile",
       "description": "Creates an ideal dating profile by writing your bio and choosing the best photos in the right order",
       "metadata": {
-        "author": "tiff.zo.computer",
+        "author": "ray.zo.computer",
         "category": "Community",
         "display-name": "Create ideal dating profile",
         "emoji": "💌"
@@ -1057,7 +1165,7 @@
       "name": "text-commute-info",
       "description": "Gets your commute time and route options, then texts you the details",
       "metadata": {
-        "author": "ian.zo.computer",
+        "author": "ray.zo.computer",
         "category": "Community",
         "display-name": "Text commute travel time and route",
         "emoji": "🚏"
@@ -2166,6 +2274,16 @@
         ],
         "integrations": [
           "lastfm"
+        ],
+        "secrets": [
+          {
+            "secret_name": "LASTFM_API_KEY",
+            "description": "Create at last.fm/api/account/create."
+          },
+          {
+            "secret_name": "LASTFM_USER",
+            "description": "Your Last.fm username — the queries pull listening history for this user."
+          }
         ]
       },
       "slug": "lastfm",
@@ -2351,6 +2469,12 @@
         ],
         "integrations": [
           "notion"
+        ],
+        "secrets": [
+          {
+            "secret_name": "NOTION_API_KEY",
+            "description": "Create an integration at notion.so/my-integrations and copy the internal integration secret."
+          }
         ]
       },
       "slug": "notion",
@@ -2972,6 +3096,16 @@
         ],
         "integrations": [
           "trello"
+        ],
+        "secrets": [
+          {
+            "secret_name": "TRELLO_API_KEY",
+            "description": "Get one at trello.com/app-key."
+          },
+          {
+            "secret_name": "TRELLO_TOKEN",
+            "description": "Click the \"Token\" link on trello.com/app-key after creating the API key."
+          }
         ]
       },
       "slug": "trello",
