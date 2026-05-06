@@ -165,3 +165,11 @@
   skill: signup-flow-cro
 - repository: coreyhaines31/marketingskills
   skill: social-content
+- repository: jingerzz/zo-sec-intelligence
+  skill: sec-edgar
+  description: Natural-language SEC filing intelligence — fetch, index, search, and analyze SEC EDGAR filings for any public company via conversation. Built on the PageIndex vectorless RAG methodology.
+  compatibility: Created for Zo Computer
+  metadata:
+    author: cis.zo.computer
+    category: External
+    display-name: SEC Intelligence
